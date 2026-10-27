@@ -1,7 +1,7 @@
-versionName=v122
-versionCode=222
+versionName=v120
+versionCode=220
 apk=vendlife_hub_latest.apk
-built=2026-10-27
-sha256=fb94da51890aba48a6b07373d11bb9ac4957312d7afac2d9ddf20b432221cc8e
-size_bytes=16787
+built=2026-10-13
+sha256=b74682182352c78019e89212268eb35d3e22cc5aeaf72c4cfb458efe8a0d5f90
+size_bytes=14911108
 package=com.auto.huiyijie
