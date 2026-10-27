@@ -1,0 +1,7 @@
+versionName=v123
+versionCode=223
+apk=releases/vendlife_hub_latest.apk
+built=2026-10-27
+sha256=86b60bd111c1d66b68134103aed6766c8a0ac0da8ccd9deff830a725ef3d7d1a
+size_bytes=14911108
+package=com.auto.huiyijie
